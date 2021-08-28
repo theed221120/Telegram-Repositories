@@ -31,3 +31,6 @@ My telegram bots repositories list.
 - [Glitch-Art-Bot](https://github.com/FayasNoushad/Glitch-Art-Bot)
 
 ---
+
+#### (C) [FayasNoushad](https://github.com/FayasNoushad)
+#### All Rights Reserved
