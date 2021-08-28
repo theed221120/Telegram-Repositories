@@ -21,3 +21,4 @@ My telegram bots repositories list.
 - [PyPi-Bot](https://github.com/FayasNoushad/PyPi-Bot)
 - [Python-Evaluate-Bot](https://github.com/FayasNoushad/Python-Evaluate-Bot)
 - [Movie-Info-Bot](https://github.com/FayasNoushad/Movie-Info-Bot)
+- [Google-Search-Bot](https://github.com/FayasNoushad/Google-Search-Bot)
