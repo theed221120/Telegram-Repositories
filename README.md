@@ -17,3 +17,4 @@ My telegram bots repositories list.
 - [Corona-Info-Bot](https://github.com/FayasNoushad/Corona-Info-Bot)
 - [Info-Bot](https://github.com/FayasNoushad/Info-Bot)
 - [Channel-Message-Editor](https://github.com/FayasNoushad/Channel-Message-Editor)
+- [YouTube-Thumbnail-Downloader](https://github.com/FayasNoushad/YouTube-Thumbnail-Downloader)
