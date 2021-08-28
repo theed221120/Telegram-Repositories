@@ -14,3 +14,4 @@ My telegram bots repositories list.
 - [URL-Shortner-Bot](https://github.com/FayasNoushad/URL-Shortner-Bot)
 - [Translator-Bot-V2](https://github.com/FayasNoushad/Translator-Bot-V2)
 - [Calculator-Bot](https://github.com/FayasNoushad/Calculator-Bot)
+- [Corona-Info-Bot](https://github.com/FayasNoushad/Corona-Info-Bot)
