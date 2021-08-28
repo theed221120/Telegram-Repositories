@@ -12,3 +12,4 @@ My telegram bots repositories list.
 - [Pyrogram-Json-Bot](https://github.com/FayasNoushad/Pyrogram-Json-Bot)
 - [Channel-Auto-Post-Bot](https://github.com/FayasNoushad/Channel-Auto-Post-Bot)
 - [URL-Shortner-Bot](https://github.com/FayasNoushad/URL-Shortner-Bot)
+- [Translator-Bot-V2](https://github.com/FayasNoushad/Translator-Bot-V2)
