@@ -10,3 +10,4 @@ My telegram bots repositories list.
 - [Remove-BG-Bot](https://github.com/FayasNoushad/Remove-BG-Bot)
 - [Translator-Bot](https://github.com/FayasNoushad/Translator-Bot)
 - [Pyrogram-Json-Bot](https://github.com/FayasNoushad/Pyrogram-Json-Bot)
+- [Channel-Auto-Post-Bot](https://github.com/FayasNoushad/Channel-Auto-Post-Bot)
