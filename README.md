@@ -22,3 +22,4 @@ My telegram bots repositories list.
 - [Python-Evaluate-Bot](https://github.com/FayasNoushad/Python-Evaluate-Bot)
 - [Movie-Info-Bot](https://github.com/FayasNoushad/Movie-Info-Bot)
 - [Google-Search-Bot](https://github.com/FayasNoushad/Google-Search-Bot)
+- [Glitch-Art-Bot](https://github.com/FayasNoushad/Glitch-Art-Bot)
