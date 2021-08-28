@@ -13,3 +13,4 @@ My telegram bots repositories list.
 - [Channel-Auto-Post-Bot](https://github.com/FayasNoushad/Channel-Auto-Post-Bot)
 - [URL-Shortner-Bot](https://github.com/FayasNoushad/URL-Shortner-Bot)
 - [Translator-Bot-V2](https://github.com/FayasNoushad/Translator-Bot-V2)
+- [Calculator-Bot](https://github.com/FayasNoushad/Calculator-Bot)
