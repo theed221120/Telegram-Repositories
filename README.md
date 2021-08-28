@@ -18,3 +18,4 @@ My telegram bots repositories list.
 - [Info-Bot](https://github.com/FayasNoushad/Info-Bot)
 - [Channel-Message-Editor](https://github.com/FayasNoushad/Channel-Message-Editor)
 - [YouTube-Thumbnail-Downloader](https://github.com/FayasNoushad/YouTube-Thumbnail-Downloader)
+- [PyPi-Bot](https://github.com/FayasNoushad/PyPi-Bot)
