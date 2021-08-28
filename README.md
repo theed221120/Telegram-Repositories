@@ -4,6 +4,12 @@ My telegram bots repositories list.
 
 ---
 
+#### Please add your 🌟 for the repository to support the project and please follow me
+
+[![GitHub stars](https://img.shields.io/github/stars/FayasNoushad/Telegram-Repositories.svg?style=social&label=Star)](https://github.com/FayasNoushad/Telegram-Repositories/stargazers) [![GitHub followers](https://img.shields.io/github/followers/FayasNoushad.svg?style=social&label=Follow)](https://github.com/FayasNoushad?tab=followers)
+
+---
+
 - [Telegraph-Uploader-Bot](https://github.com/FayasNoushad/Telegraph-Uploader-Bot)
 - [Country-Info-Bot](https://github.com/FayasNoushad/Country-Info-Bot)
 - [Attach-Bot](https://github.com/FayasNoushad/Attach-Bot)
